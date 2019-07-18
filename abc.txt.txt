@@ -1,0 +1,3 @@
+has the test abc details
+as well as the db scripts
+to be published to git
